@@ -1,0 +1,7 @@
+This is a flag file for hackthebox
+
+
+Tenet:
+
+user.txt - 03510d50d8fc03f0f2285d7cb785bc62
+root.txt - d2a80da8bb008ded1a61f19a3c098f37
