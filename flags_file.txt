@@ -7,6 +7,7 @@ user.txt - 03510d50d8fc03f0f2285d7cb785bc62
 root.txt - d2a80da8bb008ded1a61f19a3c098f37
 
 Flags for Synack_Track
+
 Baby Interdimensional Internet - HTB{n3v3r_trust1ng_us3r_1nput_ag41n_1n_my_l1f3}
 Baby SQL - 
 Breaking Grad - HTB{l00s1ng_t3nur3_l1k3_it5_fr1d4y_m0rn1ng}
@@ -15,3 +16,22 @@ Mr.Burns - HTB{wh3n_l1f3_g1v3s_y0u_🍊_4nd_f4st-cg1...}
 Nginxatsu - HTB{PD0's_br34th1ng_1nt3s1f13s!}
 Under Construction - HTB{d0n7_3xp053_y0ur_publ1ck3y}
 Weather App - HTB{w3lc0m3_t0_th3_p1p3_dr34m}
+
+Synack Tracks_Other_Machines
+
+user.txt
+74a8e86f3f6ecd8010a660cfb44ee585
+root.txt
+fd6d2e53c995e6928cd0f040c79ba053
+
+oouch
+user.txt
+92b69719917528cc6b19fd551da90de2
+root.txt
+3ed92b647ee9628e125af749ce499f31
+
+kryptos: -
+user.txt
+6256d6dcf75cb62343e023ae9e567c6e
+root.txt
+92b69719917528cc6b19fd551da90de2
